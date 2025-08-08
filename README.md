@@ -6,6 +6,9 @@ Part of the FAVI System: https://github.com/guild-st-isidore-TO/fabrica-virtuali
 
 ---
 
+> STATUS (VIII Augustii MMXXV)  
+On Hold -- Bootstrapped projects by reusing old code, not much more
+
 ## USAGE
 
 ### Operating Systems
