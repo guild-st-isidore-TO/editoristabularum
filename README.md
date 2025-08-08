@@ -43,7 +43,14 @@ docker images
 Run docker image
 
 ```
-docker run -d -p 5050:5050 editoris-tabularum
+docker run -d -p 5051:5051 editoris-tabularum
+```
+
+These paths should be accessible on the browser after running the image above:
+
+```
+http://localhost:5051/
+http://localhost:5051/api/v1/books/all
 ```
 
 Listing docker image/container status

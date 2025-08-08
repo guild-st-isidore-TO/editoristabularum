@@ -6,7 +6,7 @@ from flask import request, jsonify
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
-api_port = 5050
+api_port = 5051
 
 # Create some test data for our catalog in the form of a list of dictionaries.
 books = [
